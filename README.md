@@ -1,0 +1,2 @@
+# SatisfactorySaveGame
+Satisfactory Save games
